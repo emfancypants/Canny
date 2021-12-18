@@ -10,9 +10,9 @@ Emily Kok Fang Ning
 
 ## 1. Project Overview
 ### Motivation
-As university students who are venturing into adulthood, we find ourselves struggling to keep track of our finances. Some find it a hassle to note down every little purchase they make, while others simply don’t find the need to do so. However, it is definitely important for one to keep track of their finances as it is then would we know where your money goes and you can ensure that your money is used wisely.
+As university students who are venturing into adulthood, we find ourselves struggling to keep track of our finances. Some might find it a hassle to note down every little purchase they make, while others simply don’t find the need to do so. However, it is definitely important for us to keep track of their finances to know where our money goes so that we can ensure that our money is used wisely.
 
-Many have probably resulted in using money tracking applications on their phones, which are not user friendly, and are hard to use. When in a rush, one would not be in the right frame of mind to slowly navigate their way through the application, just to key in that they spent $3.50 on their chicken rice for lunch. And by the time the day ends, one would simply forget that they had spent that money on lunch. This might not seem to be a problem at the start, but as the amount snowballs, their spending habits are not accurately reflected through the application, thus the application is now purposeless to the user. At the end of the day, the user would simply delete the application.
+A simple solution that many use would be money tracking applications on their phones, which are not user friendly, and are hard to use. When in a rush, one would not be in the right frame of mind to slowly navigate their way through the application, just to key in that they spent $3.50 on their chicken rice for lunch. And by the time the day ends, one would simply forget that they had spent that money on lunch. This might not seem to be a problem at the start, but as the amount snowballs, their spending habits are not accurately reflected through the application, thus the application is now purposeless to the user. At the end of the day, the user would simply delete the application.
 
 ### Aim
 We intend to create an **android application** to allow university students to have a proper budget planning as they venture into adulthood. This enables students to determine in advance whether they will have enough money to do the things they need to do or would like to do in the future.
@@ -42,7 +42,7 @@ The following technologies will be used in the process of developing the mobile 
 
 ### Quick Input Function
 * **Calculator Screen**
-  * Consists of just a number pad and buttons for the most used categories, which makes it easier for the user to just key in the amount and pick the category for the spending on the go.This segment will be linked to the receipt function.
+  * Consists of just a number pad and buttons for the most used categories, which makes it easier for the user to just key in the amount and pick the category for the spending on the go. This segment will be linked to the receipt function.
 
 ### Dashboard Function
 * **Budget**
@@ -84,6 +84,6 @@ The following technologies will be used in the process of developing the mobile 
 
 ### Side Bar
 * **Customise Quick Input**
-  * Users can change the buttons on the quick input screen to the most used categories to spendings the user makes on a frequent basis, to make keying in his expenditure even easier.
+  * Users can change the buttons on the quick input screen to the most used categories to spendings the user makes on a frequent basis, to make keying in their expenditures easier.
 * **Customise Dashboard**
   * Users can choose what to include in their dashboard.
